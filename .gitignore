@@ -1,0 +1,6 @@
+/analysis
+/data
+/figures
+/target
+/utils/__pycache__
+.DS_Store
